@@ -51,6 +51,8 @@ public class JoinActivity extends AppCompatActivity {
                             Toast.makeText(getApplicationContext(), "사용불가", Toast.LENGTH_SHORT).show();
                             break;
 
+                        } else {
+
                         }
 
                     }
